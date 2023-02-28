@@ -25,16 +25,14 @@ CF 是一个云环境利用框架，适用于在红队场景中对云上内网�
 
 CF 下载地址：[github.com/teamssix/cf/releases](https://github.com/teamssix/cf/releases)
 
-<img width="1000" src="/img/1663940597.png"><br>
+<img width="1000" src="/img/1670938640.png"><br>
 
 当前已支持的云：
 
 * 阿里云
 * 腾讯云
-* AWS（预计在 2022 年 10 月 14 日前支持）
-* 华为云（预计在 2022 年 12 月 14 日前支持）
-
-功能排期可参考：[github.com/teamssix/cf/discussions/130](https://github.com/teamssix/cf/discussions/130)
+* AWS
+* 华为云
 
 ## 安装
 
@@ -51,31 +49,17 @@ CF 下载地址：[github.com/teamssix/cf/releases](https://github.com/teamssix/
 |  cf_x.x.x_windows_amd64.zip  | Windows |                AMD                 |  64  |
 |  cf_x.x.x_windows_arm64.zip  | Windows |                ARM                 |  64  |
 
-### MacOS && Linux
-
-> 注意将下面命令中的地址和文件名替换成 [releases](https://github.com/teamssix/cf/releases) 里的值。
-
-```bash
-wget https://github.com/teamssix/cf/releases/download/xxx/cf_xxx_xxx_xxx.tar.gz
-tar zxvf cf_xxx_xxx_xxx.tar.gz
-chmod +x cf
-./cf
-```
-
-### Windows
-
-直接在 CF 下载地址：[github.com/teamssix/cf/releases](https://github.com/teamssix/cf/releases) 中下载系统对应的 ZIP 文件，解压后，在命令行中运行即可。
-
 ## 使用案例
 
-|                标题                | 所使用的 CF 版本 |             文章地址              | 发布时间  |
-| :--------------------------------: | :--------------: | :-------------------------------: | :-------: |
-| 《记录一次平平无奇的云上攻防过程》 |      v0.4.0      |  [https://zone.huoxian.cn/d/2557](https://zone.huoxian.cn/d/2557)   | 2022.9.14 |
-|   《我用 CF 打穿了他的云上内网》   |      v0.2.4      | [https://zone.huoxian.cn/d/1341-cf](https://zone.huoxian.cn/d/1341-cf) | 2022.7.13 |
+|                标题                | 所使用的 CF 版本 |                           文章地址                           |   作者   |  发布时间  |
+| :--------------------------------: | :--------------: | :----------------------------------------------------------: | :------: | :--------: |
+|    《一次简单的"云"上野战记录》    |      v0.4.2      | [https://mp.weixin.qq.com/s/wi8CoNwdpfJa6eMP4t1PCQ](https://mp.weixin.qq.com/s/wi8CoNwdpfJa6eMP4t1PCQ) | carrypan | 2022.10.19 |
+| 《记录一次平平无奇的云上攻防过程》 |      v0.4.0      | [https://zone.huoxian.cn/d/2557](https://zone.huoxian.cn/d/2557) | TeamsSix | 2022.9.14  |
+|   《我用 CF 打穿了他的云上内网》   |      v0.2.4      | [https://zone.huoxian.cn/d/1341-cf](https://zone.huoxian.cn/d/1341-cf) | TeamsSix | 2022.7.13  |
 
 ## 简单上手
 
-<img width="900" src="/img/1662366701.png">
+<img width="900" src="/img/1665545933.png">
 
 > 这里以阿里云为例，其他更多操作可以查看上面的使用手册。
 
@@ -117,7 +101,7 @@ cf alibaba ls
 cf alibaba ecs exec -h
 ```
 
-<img width="1000" src="/img/1662542058.png">
+<img width="1000" src="/img/1665546062.png">
 
 一键为所有实例执行三要素，方便 HVV
 
@@ -193,6 +177,8 @@ CF 现已加入 [404星链计划](https://github.com/knownsec/404StarLink)
 * 本工具仅用于合法合规用途，严禁用于违法违规用途。
 * 本工具中所涉及的风险点均属于租户责任，与云厂商无关。
 
+<div align=center><img width="400" src="/img/1672820508.JPG"></div><br>
+
 <div align=center><b>感谢你使用我的工具</b></div>
 
 <Vssue />
@@ -200,7 +186,7 @@ CF 现已加入 [404星链计划](https://github.com/knownsec/404StarLink)
 <script>
 export default {
     mounted () {
-      this.$page.lastUpdated = "2022年10月3日"
+      this.$page.lastUpdated = "2022年12月13日"
     }
   }
 </script>

@@ -19,6 +19,7 @@ module.exports = [
             "/CloudNative/Docker/CVE-2021-22555",
             "/CloudNative/Docker/CVE-2022-0492",
             "/CloudNative/Docker/CVE-2022-0847",
+            "/CloudNative/Docker/CVE-2022-0847-dirty-pipe",
             "/CloudNative/Docker/CVE-2022-23222",
             "/CloudNative/Docker/docker-user-group-privilege-escalation",
         ]
@@ -30,6 +31,7 @@ module.exports = [
             "/CloudNative/Kubernetes/k8s-risks",
             "/CloudNative/Kubernetes/CVE-2018-1002105",
             "/CloudNative/Kubernetes/k8s-var-log-escape",
+            "/CloudNative/Kubernetes/k8s-cluster-penetration",
         ]
     }, {
         title: "Terraform",

@@ -5,6 +5,296 @@ title: 更新日志
 
 ---
 
+## 2023.1.19
+
+<p></p> 
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「happi0」师傅补充的文库信息，感谢「happi0」师傅贡献的以下文章：
+        <br/>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+         <a-tag color="blue">新增文章</a-tag>《从脏管道（CVE-2022-0847）到 Docker 逃逸》<a href="/CloudNative/Docker/CVE-2022-0847-dirty-pipe.html" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「happi0」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+## 2022.12.26
+
+<p></p> 
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>更新<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>板块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>火线安全每日云安全资讯</li>
+          <li>腾讯云鼎每日云安全资讯</li>
+        </ul>
+    </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+## 2022.12.20
+
+<p></p> 
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「Kfzz1」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>云渗透笔记 CloudPentestCheatsheets（英文）</li>
+          <li>多云资产收集工具 cloudlist</li>
+          <li>BloodHound 收集 Azure 数据工具 AzureHound</li>
+				</ul>
+    </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2022.12.16
+
+<p></p> 
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>更新<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>板块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>云安全向导</li>
+				</ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「Kfzz1」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>Azure AD 信息收集工具 AzureGraph</li>
+				</ul>
+    </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+## 2022.12.13
+
+<p></p> 
+
+<br>
+
+<template>
+  <a-timeline>
+<a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>CF 发布 v0.4.4 版本，更新<a href="/cf/" target="_blank"> CF 使用手册 </a><br/>
+    </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+## 2022.12.4
+
+<p></p> 
+
+<br>
+
+<template>
+  <a-timeline>
+<a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>CF 发布 v0.4.3 版本，更新<a href="/cf/" target="_blank"> CF 使用手册 </a><br/>
+    </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+## 2022.11.25
+
+<p></p> 
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>更新<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>板块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>AWS 安全公告（英文）</li>
+          <li>0xd4y Hacking in the Cloud（英文）</li>
+        </ul>
+    </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+## 2022.11.10
+
+<p></p> 
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>更新<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>板块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>devops 资讯（英文）</li>
+          <li>0xd4y 博客（英文）</li>
+          <li>GCP 渗透测试笔记（英文）</li>
+				</ul>
+    </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+## 2022.11.4
+
+<p></p> 
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「一生热爱」师傅补充的文库信息，感谢「一生热爱」师傅贡献的以下文章：
+        <br/>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+         <a-tag color="blue">新增文章</a-tag>《K8s 集群渗透》<a href="/CloudNative/Kubernetes/k8s-cluster-penetration.html" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2022.11.3
+
+<p></p> 
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>更新<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>板块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>AWS 枚举（第一部分）（英文）</li>
+          <li>AWS 权限提升（英文）</li>
+          <li>AWS IAM 权限枚举工具 Principal Mapper</li>
+          <li>AWS IAM 权限枚举工具 enumerate-iam</li>
+				</ul>
+    </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2022.11.2
+
+<p></p> 
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>更新<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>板块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>《Hands-On AWS Penetration Testing with Kali Linux》</li>
+				</ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「Kfzz1」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>Azure 靶场 AzureGoat</li>
+				</ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「Kfzz1」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2022.10.31
+
+<p></p> 
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>更新<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>板块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>绿盟技术博客</li>
+          <li>CNCF</li>
+          <li>容器魔方</li>
+          <li>云计算D1net</li>
+          <li>云原生社区动态</li>
+          <li>大可不加冰</li>
+          <li>一次简单的"云"上野战记录</li>
+          <li>S3 公开存储桶密钥扫描工具 S3cret Scanner</li>
+          <li>AWS Redshift JDBC Driver RCE</li>
+				</ul>
+    </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+## 2022.10.19
+
+<p></p> 
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>更新<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>板块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>HashiCorp 博客（英文）</li>
+          <li>PeoplActive 博客（英文）</li>
+          <li>AK 等敏感信息查找工具 trufflehog</li>
+				</ul>
+    </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
 ## 2022.10.2
 
 <p></p> 
@@ -331,8 +621,9 @@ title: 更新日志
 <template>
   <a-timeline><a-timeline-item>
       <p>
-        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「一生热爱」师傅，感谢「一生热爱」师傅贡献的以下文章：<br/>
-      </p>
+        <a-tag color="red">收到补充</a-tag>收到「一生热爱」师傅补充的文库信息，感谢「一生热爱」师傅贡献的以下文章：
+        <br/>
+    </p>
     </a-timeline-item>
 <a-timeline-item>
       <p>
@@ -366,9 +657,14 @@ title: 更新日志
       <p>
          <a-tag color="blue">新增文章</a-tag>《Docker 用户提权》<a href="/CloudNative/Docker/docker-user-group-privilege-escalation.html" target="_blank">文章地址</a><br/>
       </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「一生热爱」师傅，感谢「一生热爱」师傅的贡献。<br/>
+      </p>
     </a-timeline-item>
    </a-timeline>
 </template>
+
 
 
 ## 2022.7.5
@@ -465,15 +761,6 @@ title: 更新日志
 
 <template>
   <a-timeline>
-<a-timeline-item>
-      <p>
-        <a-tag color="green">文库动态</a-tag>更新<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>板块，补充信息摘要如下：<br/>
-      <br/>
-        <ul>
-          <li>云安全漏洞数据库</li>
-				</ul>
-    </p>
-    </a-timeline-item>
   <a-timeline-item>
       <p>
         <a-tag color="green">文库动态</a-tag>增加<a href="/CF/" target="_blank"> CF 使用手册 </a>板块
