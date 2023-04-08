@@ -5,9 +5,56 @@ title: 更新日志
 
 ---
 
+## 2023.3.16
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「Kfzz1」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>CI/CD 靶场部署工具</li>
+          <li>GCP 靶场部署工具 GCPGoat</li>
+        </ul>
+    </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2023.3.9
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>更新<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>板块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>云渗透技巧 HackTricks Cloud（英文）</li>
+          <li>云风险百科（英文）</li>
+          <li>CIS Benchmarks 下载页（英文）</li>
+        </ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+         <a-tag color="blue">新增文章</a-tag>《AWS CloudFront 未配置默认根对象的风险简单分析》<a href="/CloudService/CloudFront/" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
 ## 2023.1.19
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -31,7 +78,7 @@ title: 更新日志
 
 ## 2022.12.26
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -51,7 +98,7 @@ title: 更新日志
 
 ## 2022.12.20
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -64,7 +111,7 @@ title: 更新日志
           <li>云渗透笔记 CloudPentestCheatsheets（英文）</li>
           <li>多云资产收集工具 cloudlist</li>
           <li>BloodHound 收集 Azure 数据工具 AzureHound</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
    </a-timeline>
@@ -73,7 +120,7 @@ title: 更新日志
 
 ## 2022.12.16
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -84,7 +131,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>云安全向导</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item><a-timeline-item>
       <p>
@@ -92,7 +139,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>Azure AD 信息收集工具 AzureGraph</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
    </a-timeline>
@@ -100,7 +147,7 @@ title: 更新日志
 
 ## 2022.12.13
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -116,7 +163,7 @@ title: 更新日志
 
 ## 2022.12.4
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -132,7 +179,7 @@ title: 更新日志
 
 ## 2022.11.25
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -152,7 +199,7 @@ title: 更新日志
 
 ## 2022.11.10
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -165,7 +212,7 @@ title: 更新日志
           <li>devops 资讯（英文）</li>
           <li>0xd4y 博客（英文）</li>
           <li>GCP 渗透测试笔记（英文）</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
    </a-timeline>
@@ -173,7 +220,7 @@ title: 更新日志
 
 ## 2022.11.4
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -194,7 +241,7 @@ title: 更新日志
 
 ## 2022.11.3
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -208,7 +255,7 @@ title: 更新日志
           <li>AWS 权限提升（英文）</li>
           <li>AWS IAM 权限枚举工具 Principal Mapper</li>
           <li>AWS IAM 权限枚举工具 enumerate-iam</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
    </a-timeline>
@@ -217,7 +264,7 @@ title: 更新日志
 
 ## 2022.11.2
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -228,7 +275,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>《Hands-On AWS Penetration Testing with Kali Linux》</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item><a-timeline-item>
       <p>
@@ -236,7 +283,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>Azure 靶场 AzureGoat</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item><a-timeline-item>
       <p>
@@ -249,7 +296,7 @@ title: 更新日志
 
 ## 2022.10.31
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -268,7 +315,7 @@ title: 更新日志
           <li>一次简单的"云"上野战记录</li>
           <li>S3 公开存储桶密钥扫描工具 S3cret Scanner</li>
           <li>AWS Redshift JDBC Driver RCE</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
    </a-timeline>
@@ -276,7 +323,7 @@ title: 更新日志
 
 ## 2022.10.19
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -289,7 +336,7 @@ title: 更新日志
           <li>HashiCorp 博客（英文）</li>
           <li>PeoplActive 博客（英文）</li>
           <li>AK 等敏感信息查找工具 trufflehog</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
    </a-timeline>
@@ -297,7 +344,7 @@ title: 更新日志
 
 ## 2022.10.2
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -312,7 +359,7 @@ title: 更新日志
 
 ## 2022.9.26
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -328,7 +375,7 @@ title: 更新日志
           <li>Certified Cloud Security Professional, CCSP</li>
           <li>CompTIA Cloud+</li>
           <li>GCP Professional Cloud Security Engineer</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
    </a-timeline>
@@ -336,7 +383,7 @@ title: 更新日志
 
 ## 2022.9.21
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -350,7 +397,7 @@ title: 更新日志
           <li>Gafnit Amiga 的个人博客</li>
           <li>Nick Frichette 的个人博客</li>
           <li>Chris Farris 的个人博客</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
    </a-timeline>
@@ -358,7 +405,7 @@ title: 更新日志
 
 ## 2022.9.15
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -369,7 +416,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>云渗透信息收集工具 cloudfox</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
    </a-timeline>
@@ -377,7 +424,7 @@ title: 更新日志
 
 ## 2022.9.14
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -392,7 +439,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>记录一次平平无奇的云上攻防过程</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
    </a-timeline>
@@ -400,7 +447,7 @@ title: 更新日志
 
 ## 2022.9.7
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -416,7 +463,7 @@ title: 更新日志
 
 ## 2022.8.15
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -428,7 +475,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>AWS 靶场 AWSGoat</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
    </a-timeline>
@@ -437,7 +484,7 @@ title: 更新日志
 
 ## 2022.8.12
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -450,7 +497,7 @@ title: 更新日志
         <ul>
           <li>福布斯 Cloud 100</li>
           <li>云计算隔离问题：PostgreSQL 的漏洞影响到多个云计算供应商</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item><a-timeline-item>
       <p>
@@ -462,7 +509,7 @@ title: 更新日志
 
 ## 2022.8.11
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -476,7 +523,7 @@ title: 更新日志
           <li>2021 年云安全事件回顾</li>
           <li>Christophe Tafani-Dereeper 博客</li>
           <li>Google Cloud Shell 命令注入</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
    </a-timeline>
@@ -485,7 +532,7 @@ title: 更新日志
 
 ## 2022.8.10
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -506,7 +553,7 @@ title: 更新日志
           <li>Ermetic 博客</li>
           <li>云安全入门资料</li>
           <li>云服务漏洞库</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
    </a-timeline>
@@ -516,7 +563,7 @@ title: 更新日志
 
 ## 2022.7.18
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -532,7 +579,7 @@ title: 更新日志
 
 ## 2022.7.14
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -548,7 +595,7 @@ title: 更新日志
 
 ## 2022.7.13
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -565,7 +612,7 @@ title: 更新日志
 
 ## 2022.7.11
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -581,7 +628,7 @@ title: 更新日志
 
 ## 2022.7.10
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -598,7 +645,7 @@ title: 更新日志
 
 ## 2022.7.8
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -614,7 +661,7 @@ title: 更新日志
 
 ## 2022.7.7
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -669,7 +716,7 @@ title: 更新日志
 
 ## 2022.7.5
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -681,7 +728,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>云环境利用框架 CF</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item><a-timeline-item>
       <p>
@@ -695,7 +742,7 @@ title: 更新日志
 
 
 ## 2022.7.4
-<p></p> 
+<p></p>
 
 <br>
 
@@ -710,7 +757,7 @@ title: 更新日志
 
 ## 2022.7.1
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -755,7 +802,7 @@ title: 更新日志
 
 ## 2022.6.30
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -804,7 +851,7 @@ title: 更新日志
 
 
 ## 2022.6.16
-<p></p> 
+<p></p>
 
 <br>
 
@@ -820,7 +867,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>Terraform 可视化</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
    </a-timeline>
@@ -830,7 +877,7 @@ title: 更新日志
 
 ## 2022.6.10
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -846,7 +893,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>开源多云安全合规扫描平台 RiskScanner</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item><a-timeline-item>
       <p>
@@ -859,7 +906,7 @@ title: 更新日志
         <ul>
           <li>腾讯云官方 COS 辅助工具</li>
           <li>阿里云/腾讯云 AK 资源管理工具</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item><a-timeline-item>
       <p>
@@ -873,7 +920,7 @@ title: 更新日志
 
 ## 2022.6.7
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -885,7 +932,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>从云服务器 SSRF 漏洞到接管你的阿里云控制台</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item><a-timeline-item>
       <p>
@@ -898,7 +945,7 @@ title: 更新日志
 
 ## 2022.5.30
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -916,7 +963,7 @@ title: 更新日志
           <li>KubeCon + CloudNativeCon Europe 2022 相关视频</li>
           <li>火线云安全沙龙视频</li>
           <li>《Hacking Kubernetes》</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item><a-timeline-item>
       <p>
@@ -930,7 +977,7 @@ title: 更新日志
 
 ## 2022.5.29
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -942,7 +989,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>CNCF 云原生安全白皮书 v2</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item><a-timeline-item>
       <p>
@@ -950,7 +997,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>腾讯云轻量服务器管理工具</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item><a-timeline-item>
       <p>
@@ -964,7 +1011,7 @@ title: 更新日志
 
 ## 2022.5.16
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -979,7 +1026,7 @@ title: 更新日志
           <li>云上攻防二三事（续）</li>
           <li>AWS 控制台接管利用工具 aws_consoler</li>
           <li>云上公开资产枚举 CloudBrute</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
    </a-timeline>
@@ -988,7 +1035,7 @@ title: 更新日志
 
 ## 2022.5.13
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -1007,7 +1054,7 @@ title: 更新日志
           <li>在 AWS 下查看自己所拥有的权限</li>
           <li>APISIX CVE-2022-29266 漏洞分析与复现</li>
           <li>保障云和容器安全的十个注意事项（英文）</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
    </a-timeline>
@@ -1017,7 +1064,7 @@ title: 更新日志
 
 ## 2022.5.11
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -1039,7 +1086,7 @@ title: 更新日志
 
 ## 2022.5.8
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -1075,7 +1122,7 @@ title: 更新日志
 
 ## 2022.5.7
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -1093,7 +1140,7 @@ title: 更新日志
           <li>云安全态势管理工具 CloudSploit</li>
           <li>Azure 红队利用工具 Stormspotter</li>
           <li>GCP IAM 权限提升方法 GCP-IAM-Privilege-Escalation</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item><a-timeline-item>
       <p>
@@ -1107,7 +1154,7 @@ title: 更新日志
 
 ## 2022.5.6
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -1119,7 +1166,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>Rhino Security Labs Blog（英文）</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
    </a-timeline>
@@ -1136,7 +1183,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>开源云原生安全防护平台 neuvector</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item> <a-timeline-item>
       <p>
@@ -1144,7 +1191,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>k8s 安全风险检测工具 StackRox</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item><a-timeline-item>
       <p>
@@ -1158,7 +1205,7 @@ title: 更新日志
           <li>火线云安全知识库</li>
           <li>多云靶场搭建工具 TerraformGoat</li>
           <li>Cloud Security Wiki（英文）</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
 </a-timeline>
@@ -1169,7 +1216,7 @@ title: 更新日志
 
 ## 2022.4.30
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -1185,7 +1232,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>WIZ 博客（英文）</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
    </a-timeline>
@@ -1223,7 +1270,7 @@ title: 更新日志
           <li>带有多个自动化测试的脚本，用于检查在生产环境中部署容器的最佳实践 Docker_Bench_Security</li>
           <li>原生支持云云原生通用性系统可见性工具 sysdig</li>
           <li>容器镜像分析工具 DIVE</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item><a-timeline-item>
       <p>
@@ -1240,7 +1287,7 @@ title: 更新日志
           <li>Aqua 博客（英文）</li>
           <li>Lightspin 博客（英文）</li>
           <li>CNCF 博客（英文）</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
 </a-timeline>
@@ -1265,7 +1312,7 @@ title: 更新日志
           <li>k8s 安全审计工具 kubestriker</li>
           <li>基于 kubectl 的红队 k8s 安全评估工具 red kube</li>
           <li>容器利用工具 CCAT</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item><a-timeline-item>
       <p>
@@ -1290,7 +1337,7 @@ title: 更新日志
         <ul>
           <li>k8s 渗透测试工具 Peirates</li>
           <li>容器渗透测试工具 BOtB</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item><a-timeline-item>
       <p>
@@ -1313,7 +1360,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>k8s 集群风险权限扫描工具 KubiScan</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
 </a-timeline>
@@ -1333,7 +1380,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>利用 AWS 官方对 log4j 漏洞的热补丁实现容器逃逸（英文）</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
 </a-timeline>
@@ -1374,7 +1421,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>K8s 靶场部署工具 Kubernetes Goat</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item><a-timeline-item>
       <p>
@@ -1387,7 +1434,7 @@ title: 更新日志
         <ul>
           <li>公有云 IP 重用的威胁和防御方法分析 Paper（英文）</li>
           <li>华为云 CTF cloud 非预期解之 k8s 渗透实战</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
 </a-timeline>
@@ -1395,7 +1442,7 @@ title: 更新日志
 
 
 
-## 2022.4.16 
+## 2022.4.16
 
 <br>
 
@@ -1412,7 +1459,7 @@ title: 更新日志
       <br/>
         <ul>
           <li>AWS AccessKey 泄漏利用工具 awsKeyTools</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
         <a-timeline-item>
@@ -1426,7 +1473,7 @@ title: 更新日志
           <li>阿里云 AccessKey 泄漏利用工具 AliyunAccessKeyTools</li>
           <li>在线多云管理平台 行云管家</li>
           <li>云存储管理客户端 qiniuClient</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item><a-timeline-item>
       <p>
@@ -1439,7 +1486,7 @@ title: 更新日志
         <ul>
           <li>腾讯云 AccessKey 利用工具 Tencent_Yun_tools</li>
           <li>容器逃逸检测工具 container-escape-check</li>
-				</ul>
+        </ul>
     </p>
     </a-timeline-item>
   </a-timeline>
@@ -1449,7 +1496,7 @@ title: 更新日志
 
 ## 2022.4.15
 
-<p></p> 
+<p></p>
 
 <br>
 
@@ -1513,7 +1560,7 @@ title: 更新日志
       <p>
          <a-tag color="blue">新增文章</a-tag>《Terraform 介绍与安装》<a href="/CloudNative/Terraform/" target="_blank">文章地址</a><br/>
       </p>
-    </a-timeline-item>   
+    </a-timeline-item>
     <a-timeline-item>
       <p>
         <a-tag color="green">文库动态</a-tag>更新<a href="/About/" target="_blank"> 关于文库 </a>板块<br/>
