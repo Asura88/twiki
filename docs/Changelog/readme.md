@@ -5,6 +5,874 @@ title: 更新日志
 
 ---
 
+## 2024.12.8
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline>
+  <a-timeline-item>
+      <p>
+         <a-tag color="blue">新增文章</a-tag>《使用云访问凭证蜜标及时发现入侵行为》<a href="/CloudService/more/use-honeytokens-to-discover-attackers.html" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2024.10.28
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline>
+  <a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「glan」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/cloudsecurityresources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>Bypass</li>
+        </ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「glan」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+## 2024.9.28
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「毅种循环」师傅补充的文库信息，感谢「毅种循环」师傅贡献的以下文章：
+        <br/>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+         <a-tag color="blue">新增文章</a-tag>《红队视角下的 AzureAD 攻防》<a href="/CloudService/IAM/azure_ad_pentest.html" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「毅种循环」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2024.8.9
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline>
+  <a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「CC11001100」师傅为文库提交的 PR，感谢支持<br/>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「CC11001100」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2024.7.4
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline>
+  <a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「Yaney」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/cloudsecurityresources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>喵苗安全</li>
+        </ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「Yaney」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2024.6.9
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline>
+  <a-timeline-item>
+      <p>
+         <a-tag color="blue">新增文章</a-tag>《使用云函数限制存储桶上传类型》<a href="/CloudService/S3/limiting-bucket-upload-types-using-cloud-functions.html" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2024.5.6
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline>
+  <a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「Poker」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/cloudsecurityresources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>AWS S3 浏览器 S3 Browser</li>
+        </ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「Poker」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+## 2024.4.6
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline>
+    <a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>增加<a href="/lc" target="_blank"> LC 使用手册 </a>板块
+    </p>
+    </a-timeline-item>
+    </a-timeline>
+</template>
+
+
+## 2024.3.26
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline>
+  <a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「feng」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/cloudsecurityresources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>WIZ K8s 靶场 WIZ K8S LAN Party</li>
+        </ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「feng」师傅补充的文库信息，感谢「feng」师傅贡献的以下文章：
+        <br/>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+         <a-tag color="blue">新增文章</a-tag>《WIZ K8S LAN Party Writeup》<a href="/CloudNative/Kubernetes/wiz-k8s-lan-party-wp.html" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2024.2.23
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline>
+  <a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「Kagantua」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/cloudsecurityresources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>Cloud Security Wiki By WithSecure</li>
+        </ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「Kagantua」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2023.11.13
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「Esonhugh」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/cloudsecurityresources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>本地 AWS 环境部署工具 LocalStack</li>
+        </ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「Esonhugh」师傅补充的文库信息，感谢「Esonhugh」师傅贡献的以下文章：
+        <br/>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+         <a-tag color="blue">新增文章</a-tag>《WIZ EKS Cluster Games WP》<a href="/CloudNative/Kubernetes/wiz-eks-cluster-games-wp.html" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2023.10.28
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+         <a-tag color="blue">新增文章</a-tag>《利用信任策略枚举云上用户与角色》<a href="/cloudservice/iam/enum_user_and_role.html" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2023.10.18
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「程皮糖别皮」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/cloudsecurityresources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>60 种云攻击的方法（英文）</li>
+        </ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「程皮糖别皮」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2023.10.17
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「RBPi」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2023.10.16
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「RBPi」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/cloudsecurityresources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>在线多云渗透靶场 pwnedlabs</li>
+        </ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「弱鸡」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/cloudsecurityresources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>云资产管理工具 cloudTools</li>
+        </ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「弱鸡」师傅补充的文库信息，感谢「弱鸡」师傅贡献的以下文章：
+        <br/>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+         <a-tag color="blue">新增文章</a-tag>《K8s 污点横向 & API Server 未授权访问 & Docker 危险挂载逃逸》<a href="/CloudNative/Kubernetes/k8s-horizontal-taints.html" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「弱鸡」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「shadowabi」师傅补充的文库信息，感谢「shadowabi」师傅贡献的以下文章：
+        <br/>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+         <a-tag color="blue">新增文章</a-tag>《WIZ IAM 挑战赛 Writeup by shadowabi》<a href="/CloudService/IAM/the-big-iam-challenge-writeup-by-shadowabi.html" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2023.9.18
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「宅独青年」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/cloudsecurityresources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>小佑科技</li>
+          <li>CI/CD 攻击场景 - KCon 2023 议题</li>
+        </ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「宅独青年」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+## 2023.9.15
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「shadowabi」师傅补充的文库信息，感谢「shadowabi」师傅贡献的以下文章：
+        <br/>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+         <a-tag color="blue">新增文章</a-tag>《云存在隔离问题：PostgreSQL 漏洞影响多个云供应商》<a href="/CloudService/RDS/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities.html" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「shadowabi」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2023.9.14
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>更新<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>板块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>云安全学习建议与方向（英文）</li>
+        </ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「橘子怪」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/cloudsecurityresources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>Azure 资源收集项目 Awesome-Azure-Pentest</li>
+        </ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「橘子怪」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2023.8.25
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>更新<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>板块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>支持 GUI 的 AWS、GCP 利用工具 Vajra</li>
+          <li>Raunak Parmar</li>
+          <li>AWS 创建后门的几种方法（英文）</li>
+          <li>Mystic0x1 博客（英文）</li>
+          <li>Fawaz</li>
+          <li>AWS IAM 靶场 IAM Vulnerable</li>
+        </ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「2h0ng」师傅补充的文库信息，感谢「2h0ng」师傅所补充的以下文章：
+        <br/>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+         <a-tag color="orange">文章补充</a-tag>《EC2 所面临的风险》<a href="/CloudService/EC2/" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「2h0ng」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2023.8.23
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>更新<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>板块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>Sysdig 2023 年全球云威胁报告（英文）</li>
+        </ul>
+    </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2023.8.22
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>更新<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>板块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>CloudTrail 日志分析 IAM 权限工具 Cloudtrail2IAM</li>
+          <li>当 0day 和访问密钥在云上被结合利用时：应对 SugarCRM 0day 漏洞 (英文)</li>
+          <li>用于攻击 Azure Function 应用程序的 PowerShell 工具 FuncoPop</li>
+          <li>Simple Workspace ATT&CK Tool - SWAT</li>
+          <li>Simon Décosse</li>
+        </ul>
+    </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+## 2023.8.21
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「R!ng0」师傅补充的文库信息，感谢「R!ng0」师傅贡献的以下文章：
+        <br/>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+         <a-tag color="blue">新增文章</a-tag>《通过基于管理程序的虚拟机自检实现下一代云安全》<a href="/CloudNative/Virtualization/" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「R!ng0」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2023.8.18
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「苏打养乐多」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/cloudsecurityresources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>青云官方 CLI 工具</li>
+        </ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「苏打养乐多」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+## 2023.7.16
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「曾哥」师傅补充的文库信息，感谢「曾哥」师傅贡献的以下文章：
+        <br/>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+         <a-tag color="blue">新增文章</a-tag>《云业务 AccessKey 标识特征整理》<a href="/CloudService/more" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「曾哥」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2023.7.15
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「DVKunion」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/cloudsecurityresources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>云原生实验室博客</li>
+        </ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「DVKunion」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>更新<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>板块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>AWS 攻击知识库 WeirdAAL (英文)</li>
+          <li>云安全资讯（英文）</li>
+          <li>云原生实验室博客</li>
+          <li>云计算市场资讯（英文）</li>
+          <li>TeamsSix</li>
+          <li>0xd4y</li>
+          <li>Andy Robbins</li>
+          <li>Beau Bullock</li>
+          <li>Chris Farris</li>
+          <li>Christophe Tafani-Dereeper</li>
+          <li>Dirk-jan</li>
+          <li>Dr. Nestori Syynimaa</li>
+          <li>Emilien Socchi</li>
+          <li>Fabian Bader</li>
+          <li>gafnit</li>
+          <li>inversecosᵘʷᵘ</li>
+          <li>Jason Ostrom</li>
+          <li>Joosua Santasalo</li>
+          <li>Karl</li>
+          <li>Kfzz1</li>
+          <li>Liv Matan</li>
+          <li>Marco Lancini</li>
+          <li>Melvin langvik</li>
+          <li>Merill</li>
+          <li>mx7krshell</li>
+          <li>Nathan McNulty</li>
+          <li>Nick Frichette</li>
+          <li>Nikhil Mittal</li>
+          <li>Nir Ohfeld</li>
+          <li>Rhino Security Labs</li>
+          <li>Roberto Rodriguez</li>
+          <li>rootsecdev</li>
+          <li>rvrsh3ll</li>
+          <li>Ryan Hausknecht</li>
+          <li>Sami Lamppu</li>
+          <li>Sean Metcalf</li>
+          <li>Seth Art</li>
+          <li>Shir Tamari</li>
+          <li>Skyworship</li>
+          <li>Thomas Naunheim</li>
+          <li>AWS 认证解决方案架构师-助理 AWS Certified Solutions Architect – Associate</li>
+          <li>Azure 基础知识认证 Azure Fundamentals</li>
+          <li>GCP 云工程师助理 Associate Cloud Engineer</li>
+          <li>Kubernetes 认证安全专家 Certified Kubernetes Security Specialist (CKS)</li>
+          <li>阿里云专业工程师 Alibaba Cloud Certified Professional (ACP)</li>
+          <li>阿里云云计算架构师 Alibaba Cloud Certified Expert - Cloud Computing (ACE)</li>
+          <li>基础设施关系绘制工具 Cartography</li>
+          <li>适用于 AWS 和 Azure 的扫描工具 SkyArk</li>
+          <li>权限升级路径分析工具 PurplePanda</li>
+          <li>云上攻击模拟工具 Leonidas</li>
+          <li>开源的轻量级云管平台 CloudExplorer Lite</li>
+          <li>红队云操作系统 RedCloudOS/li>
+          <li>云服务枚举工具 cloud service enum</li>
+          <li>AWS 文档 GPT 工具</li>
+          <li>AWS 官方 CLI 工具</li>
+          <li>AWS 环境分析工具 CloudMapper</li>
+          <li>AWS 常见配置错误审计工具 YATAS</li>
+          <li>Route53/CloudFront 漏洞评估工具</li>
+          <li>检测多云环境中存在 dangling DNS 记录的工具 findmytakeover</li>
+          <li>Azure 官方 CLI 工具</li>
+          <li>Azure MFA 检测工具</li>
+          <li>Azure AD 和 Office 365 的 PowerShell 管理模块 AADInternals</li>
+          <li>GCP 官方 CLI 工具</li>
+          <li>GCP 资源枚举工具</li>
+          <li>GCP 攻击面资源枚举工具</li>
+          <li>GCP 资源分析工具 Hayat</li>
+          <li>GCP IAM 权限收集工具 gcp-iam-collector</li>
+          <li>Google Workspace 目录转储工具 Google Workspace Directory Dump Tool</li>
+          <li>阿里云官方 CLI 工具</li>
+          <li>腾讯云官方 CLI 工具</li>
+          <li>华为云 OBS 官方管理工具 OBS Browser+</li>
+          <li>天翼云对象存储连接工具</li>
+          <li>AWS 渗透工具集 aws-pentest-tools</li>
+          <li>AWS Lambda 密码喷洒工具 CredKing</li>
+          <li>AWS 渗透测试工具 Endgame</li>
+          <li>AWS 红队利用脚本 Redboto</li>
+          <li>AWS 域控卷影拷贝工具 CloudCopy</li>
+          <li>Azure 安全评估 PowerShell 工具包 MicroBurst</li>
+          <li>Azure AD 利用工具集 ROADtools</li>
+          <li>枚举、喷洒、渗透 O365 AAD 帐户工具 TeamFiltration</li>
+          <li>Azure JWT 令牌操作工具集 TokenTactics</li>
+          <li>Microsoft 365 安全工具箱 DCToolbox</li>
+          <li>滥用 Microsoft 365 OAuth 授权流程进行网络钓鱼攻击的概念验证脚本 Microsoft365_devicePhish</li>
+          <li>Azure AD 身份保护 Cookie 重放测试工具</li>
+          <li>GCP 利用工具集</li>
+          <li>GCP Bucket 枚举工具 GCPBucketBrute</li>
+          <li>GCP Token 复用工具</li>
+        </ul>
+    </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+## 2023.7.9
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「zunlongzhou」师傅补充的文库信息，感谢「zunlongzhou」师傅所补充的以下文章：
+        <br/>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+         <a-tag color="orange">文章补充</a-tag>《Docker 使用笔记》<a href="/cloudnative/docker/docker-use-notes.html" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「zunlongzhou」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+         <a-tag color="blue">新增文章</a-tag>《WIZ IAM 挑战赛 Writeup》<a href="/cloudservice/iam/the_big_iam_challenge_writeup.html" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「Ma1tobiose」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/cloudsecurityresources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>开源的云原生安全平台 HummerRisk</li>
+        </ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「Ma1tobiose」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+## 2023.7.5
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline>
+    <a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>CF 使用手册增加 CF 更新日志页面，详见：<a href="/CF/Changelog" target="_blank"> CF 更新日志 </a><br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>CF 使用手册增加 CF 答疑页面，详见：<a href="/CF/More/cfQA.html" target="_blank"> CF 使用答疑 </a><br/>
+      </p>
+    </a-timeline-item>
+    <a-timeline-item>
+      <p>
+         <a-tag color="blue">新增文章</a-tag>《聊聊我为什么选择云安全》<a href="/About/why_i_choose_cloud_security.html" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item>
+  </a-timeline>
+</template>
+
+
+## 2023.7.1
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline>
+<a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>CF 发布 0.5.0 版本，更新内容详见 <a href="/CF/Changelog/v0_5_0.html" target="_blank"> CF 云环境利用框架现已更新至 0.5.0 版本 </a><br/>
+    </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2023.6.9
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>更新<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>板块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>常规云服务业务侧攻防视角研究</li>
+          <li>记一次打穿云上内网的攻防实战</li>
+          <li>云原生之 Kubernetes 安全</li>
+          <li>RCE 进入内网接管 K8s 并逃逸进 xx 网</li>
+        </ul>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「k.so」师傅补充的文库信息，感谢「k.so」师傅贡献的以下文章：
+        <br/>
+    </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+         <a-tag color="blue">新增文章</a-tag>《RCE 进入内网接管 K8s 并逃逸进 xx 网》<a href="/CloudNative/Kubernetes/k8s-practical-exercise-1.html" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item><a-timeline-item>
+      <p>
+        <a-tag color="green">文库动态</a-tag>文库<a href="/" target="_blank"> 首页 </a>贡献者添加「k.so」师傅，感谢支持<br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2023.6.4
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+         <a-tag color="blue">新增文章</a-tag>《CF 云环境利用框架最佳实践》<a href="/cf/cases/cf_best_practices.html" target="_blank">文章地址</a><br/>
+      </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
+## 2023.5.17
+
+<p></p>
+
+<br>
+
+<template>
+  <a-timeline><a-timeline-item>
+      <p>
+        <a-tag color="red">收到补充</a-tag>收到「cr」师傅补充的文库信息，感谢支持，补充内容详情请见<a href="/CloudSecurityResources/" target="_blank"> 云安全资源 </a>版块，补充信息摘要如下：<br/>
+      <br/>
+        <ul>
+          <li>在线免费的 AWS 渗透测试靶场 Free AWS Security Labs</li>
+        </ul>
+    </p>
+    </a-timeline-item>
+   </a-timeline>
+</template>
+
+
 ## 2023.5.13
 
 <p></p>

@@ -32,6 +32,10 @@ module.exports = [
             "/CloudNative/Kubernetes/CVE-2018-1002105",
             "/CloudNative/Kubernetes/k8s-var-log-escape",
             "/CloudNative/Kubernetes/k8s-cluster-penetration",
+            "/CloudNative/Kubernetes/k8s-practical-exercise-1",
+            "/CloudNative/Kubernetes/k8s-horizontal-taints",
+            "/CloudNative/Kubernetes/wiz-eks-cluster-games-wp",
+            "/CloudNative/Kubernetes/wiz-k8s-lan-party-wp"
         ]
     }, {
         title: "Terraform",
@@ -51,6 +55,12 @@ module.exports = [
         children: [
             "/CloudNative/APISIX/",
             "/CloudNative/APISIX/apisix-cve-2022-29266",
+        ]
+    }, {
+        title: "Virtualization",
+        collapsable: false,
+        children: [
+            "/CloudNative/Virtualization/",
         ]
     }
 ];

@@ -13,6 +13,7 @@ module.exports = [
             "/CloudService/S3/bucket-policy-able-to-write",
             "/CloudService/S3/bucket-object-traversal",
             "/CloudService/S3/specific-bucket-policy-configuration",
+            "/CloudService/S3/limiting-bucket-upload-types-using-cloud-functions"
         ]
     },
     {
@@ -33,7 +34,8 @@ module.exports = [
         children: [
             "/CloudService/RDS/",
             "/CloudService/RDS/mssql-bulk-insert",
-            "/CloudService/RDS/postgresql-ssrf"
+            "/CloudService/RDS/postgresql-ssrf",
+            "/CloudService/RDS/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities"
         ]
     }, {
         title: "IAM 身份和访问管理",
@@ -43,13 +45,24 @@ module.exports = [
             "/CloudService/IAM/iam-persistence",
             "/CloudService/IAM/list-attached-user-policies",
             "/CloudService/IAM/console-takeover",
-            "/CloudService/IAM/aliyun-console-takeover"
+            "/CloudService/IAM/aliyun-console-takeover",
+            "/CloudService/IAM/the_big_iam_challenge_writeup",
+            "/CloudService/IAM/the-big-iam-challenge-writeup-by-shadowabi",
+            "/CloudService/IAM/enum_user_and_role",
+            "/CloudService/IAM/azure_ad_pentest",
         ]
     }, {
         title: "CloudFront",
         collapsable: false,
         children: [
             "/CloudService/CloudFront/"
+        ]
+    }, {
+        title: "更多",
+        collapsable: false,
+        children: [
+            "/CloudService/more/",
+            "/CloudService/more/use-honeytokens-to-discover-attackers"
         ]
     }
 ];
